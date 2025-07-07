@@ -16,7 +16,8 @@ Very Deep Convolutional Networks for Large-Scale Image Recognition</a>
 
 
 ### AlexNet
-![](https://velog.velcdn.com/images/changh2_00/post/ac045810-aa56-41ee-9021-506ce54f32f2/image.png)
+![](https://velog.velcdn.com/images/changh2_00/post/211c7b65-56b5-4170-a425-c6a6f384826a/image.png)
+
 
 * ILSVRC 2012에서 우승을 차지한 AlexNet은 총 **8개의 얕은 layer** 수를 가지고, 각 layer 마다 **11x11, 5x5, 3x3의 필터들을 혼용**하며 사용함
 * **LRN**(Local Response Normalization)을 사용함
