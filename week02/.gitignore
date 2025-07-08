@@ -1,7 +1,9 @@
 Deep Residual Learning for Image Recognition.pdf
 EfficientNet_ Rethinking Model Scaling for Convolutional Neural Networks.pdf
 VERY DEEP CONVOLUTIONAL NETWORKS FOR LARGE-SCALE IMAGE RECOGNITION.pdf
+runs
 
 *.tar
 *.tar.gz
+*.JPEG
 *.pth
